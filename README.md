@@ -1,5 +1,5 @@
 # LDPC_encode-decode_simulate
-&emsp;&emsp;LDPC(低密度奇偶校验)码编译码仿真（译码算法采用反向置信传播算法）。
+&emsp;&emsp;LDPC(低密度奇偶校验)码编译码仿真（译码算法采用反向置信传播算法BP）。
 ## 环境与配置
 &emsp;&emsp;推荐轻量级C++编译器clion运行仿真程序，C++语言版本为c++11。
 ## 编码与解码
